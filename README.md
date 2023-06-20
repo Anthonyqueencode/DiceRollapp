@@ -1,2 +1,2 @@
 # DiceRollapp
-This is a dice rolling app that allows you different dice and prints a result as you roll
+This is a dice rolling app that allows you roll different dices and it prints a result as you roll
